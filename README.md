@@ -36,3 +36,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95652446-3def-4a25-a41c-70de27a2eb40/deploy-status)](https://app.netlify.com/sites/svelte-prac-002-folio/deploys)
